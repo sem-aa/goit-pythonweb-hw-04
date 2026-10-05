@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Evita"
+  lastname="Duwalt"
+  city="Batticaloa"
+  country="Bahamas"
+  firstname2="Dawn"
+  lastname2="Tannie"
+  email="Dawn.Tannie@yopmail.com"
+  />
+  <random>46</random>
+  <random_float>83.886</random_float>
+  <bool>true</bool>
+  <date>1997-02-13</date>
+  <regEx>helloooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Pamella</elt><elt>Lyssa</elt><elt>Priscilla</elt><elt>Bernie</elt><elt>Stevana</elt>  
+  <Dawn>
+    <age>38</age>
+  </Dawn>
+</root>
